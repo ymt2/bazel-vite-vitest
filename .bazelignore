@@ -1,1 +1,3 @@
 node_modules
+packages/lib/node_modules
+packages/my-react-app/node_modules
